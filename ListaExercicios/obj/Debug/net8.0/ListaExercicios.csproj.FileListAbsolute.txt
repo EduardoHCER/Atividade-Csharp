@@ -1,0 +1,14 @@
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfoInputs.cache
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.AssemblyInfo.cs
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.csproj.CoreCompileInputs.cache
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\bin\Debug\net8.0\ListaExercicios.exe
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\bin\Debug\net8.0\ListaExercicios.deps.json
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\bin\Debug\net8.0\ListaExercicios.runtimeconfig.json
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\bin\Debug\net8.0\ListaExercicios.dll
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\bin\Debug\net8.0\ListaExercicios.pdb
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.dll
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\refint\ListaExercicios.dll
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.pdb
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ListaExercicios.genruntimeconfig.cache
+C:\Users\eduan\OneDrive\Área de Trabalho\Lingaguem C# (csharp)\ListaExercicios\obj\Debug\net8.0\ref\ListaExercicios.dll

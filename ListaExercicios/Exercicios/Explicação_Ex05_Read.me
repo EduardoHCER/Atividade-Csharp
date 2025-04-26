@@ -1,0 +1,36 @@
+Nome dos alunos: 
+
+Eduardo Rech
+Arthur Niwa
+Vinicius Lemes
+
+
+
+Explicação detalhada do Exercício 05  
+
+Verificação de Palíndromo 
+
+--------------------------- Passo a passo lógico ---------------------------
+
+O programa pede ao usuário que digite uma palavra ou uma frase. 
+
+Remove todos os espaços em branco da entrada usando Replace. 
+
+Converte todas as letras para minúsculas usando ToLower, para não ter diferença entre maiúsculas e minúsculas na comparação. 
+
+Transforma a string em um array de caracteres com ToCharArray. 
+
+Inverte o array usando Array.Reverse. 
+
+Cria uma nova string a partir desse array invertido. 
+
+Compara o texto invertido com o texto original. 
+
+Se forem iguais, exibe que é um palíndromo. Se forem diferentes, informa que não é. 
+ 
+
+--------------------------- Explicação; --------------------------- 
+
+Replace e ToLower transformam todo o texto em caracteres minusculos e remove os espaços entre as palavras, garante que o texto fique padronizado, ignorando diferenças que poderiam atrapalhar a comparação. A função do Array.Reverse inverte a sequência de caracteres para após isso haver a comparação. A comparação direta de strings facilita a verificação se o texto original é igual ao texto invertido. O uso do if-else por final resulta se a palavra é ou não um palíndromo. 
+
+ 
